@@ -1,0 +1,8 @@
+効果音は著作権の都合上，配布していません。なお，プログラムから参照される名前は，
+bomb.mp3
+cs.mp3
+gusa.mp3
+hirusagarinoooatu,mp3
+kiran.mp3
+pico.mp3
+です。
